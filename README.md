@@ -1,6 +1,6 @@
 # Spikey
 
-Spikey is a Spinosaurus virtual pet for Arduino Uno R4 WiFi and a 320x240 ST7789 TFT display. It mixes classic virtual-pet care with a small runner mini-game, persistent save data, sound, animated feeding/drinking, and a bright prehistoric scene.
+Spikey is a Spinosaurus virtual pet for Arduino Uno R4 and a 320x240 ST7789 TFT display. It mixes classic virtual-pet care with a small runner mini-game, persistent save data, sound, animated feeding/drinking, and a bright prehistoric scene.
 
 ## Features
 
