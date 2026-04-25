@@ -12,7 +12,7 @@ Spikey is a Spinosaurus virtual pet for Arduino Uno R4 and a 320x240 ST7789 TFT 
 
 ## Hardware
 
-- Arduino Uno R4 WiFi
+- Arduino Uno R4
 - ST7789 320x240 TFT display
 - 3 push buttons
 - Piezo buzzer
